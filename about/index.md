@@ -4,7 +4,7 @@ layout: page
 comments: no
 ---
 
-{{ site.about }}
+来自上海的软件攻城狮, 80后, 间歇性神经病，蜗居上海普陀区某处，想法挺多，成就没有，爱好电影，野外活动, 看书，各种YY...
 
 ----
 
@@ -15,9 +15,9 @@ comments: no
 {% endif %}
 网站：[{{ site.name }}]({{ site.url }})
 
-邮箱：[{{ site.email }}](mailto:{{ site.email }})
+邮箱：[zhao.qinlong#gmail.com](mailto:{{ site.email }})
 
-GitHub : [http://github.com/{{ site.github }}](http://github.com/{{ site.github }})
+<!--GitHub : [http://github.com/{{ site.github }}](http://github.com/{{ site.github }})-->
 
 ----
 

@@ -1,14 +1,14 @@
-markdown: rdiscount
+markdown: redcarpet  
 permalink: /:title/
 url: http://imvincent.github.io
-name: ImVincent
-author: Vincent
+name: imvincent
+author: Vincent Zhao
 qq: 79673904
 email: zhao.qinlong@gmail.com
 duoshuo: imvincent
-beian: 浙ICP备78542698号
-cnzz: 
-weibo: vincentWeibo
+beian: 沪ICP备78542698号
+cnzz: 1253417907
+weibo: 1676900235
 github: imvincent
 highlighter: pygments
 safe: true

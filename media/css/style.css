@@ -129,3 +129,21 @@ color: white;
 background: #83BF73;
 }
 
+.avater {
+	width: 760px;
+	margin: auto;
+}
+
+.avater pre {
+	font-family: "Lucida Console", monospace;
+	font-size: 9pt;
+	margin: auto 10px;
+	color: #40AA52;
+	float: left;
+	line-height: 12px;
+}
+
+.ads {
+	margin: 0 auto;
+ 	text-align: center;
+}
